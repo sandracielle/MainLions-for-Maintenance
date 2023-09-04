@@ -1,12 +1,11 @@
 *{
-    margin-left: 90px;
-    margin-right: 90px;
-    margin-top: 0px;
-    margin-bottom: 100px;
-    padding: 0;
+    margin-left: 18px;
+    margin-right: 15px;
+    margin-top: 10s0px;
+    margin-bottom: 10px;
+    padding: 10;
     font-family: courier, sans-serif;
 }
-
 body {
     height: 100vh;
     display: flex;
@@ -31,6 +30,38 @@ body {
     transform: scale(0.96);
 }
 .button2 {
+    position: relative;
+    padding:10px 22px;
+    background: #fff;
+    border-radius: 5px;
+    color: #000000;
+    border: none;
+    font-size: 25px;
+    font-weight: 2000;
+    cursor: pointer;
+    transition: transform 0..2 ease;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+.button{
+    transform: scale(0.96);
+}
+.button3 {
+    position: relative;
+    padding: 10px 25px;
+    background: #fff;
+    border-radius: 5px;
+    color: #000000;
+    border: none;
+    font-size: 25px;
+    font-weight: 2000;
+    cursor: pointer;
+    transition: transform 0..2 ease;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+.button{
+    transform: scale(0.96);
+}
+.button4 {
     position: relative;
     padding:10px 22px;
     background: #fff;
